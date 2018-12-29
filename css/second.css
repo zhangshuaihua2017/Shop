@@ -203,7 +203,7 @@ a{
 	left:0;top:0;
 	background-color:black;
 	opacity: 0.6; 
-	cursor: move;
+	cursor: crossshair;
 	display:none;
 }
 .big{

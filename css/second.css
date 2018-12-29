@@ -447,6 +447,7 @@ a{
 	position: fixed;
 	left: 0px;
 	top:0px;
+	z-index:1000;
 }
 .a1{
 	width: 400px;
@@ -457,6 +458,7 @@ a{
 	display: none;
 	background-color: white;
 	border:5px solid #aca9d3;
+	z-index:1001;
 }
 .a11{
 	margin:3px 0px 0px 372px;
